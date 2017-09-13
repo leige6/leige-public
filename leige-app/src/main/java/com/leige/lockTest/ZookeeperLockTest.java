@@ -13,7 +13,7 @@ import java.util.concurrent.Executors;
 
 /**
  * @author 张亚磊
- * @Description:
+ * @Description: zookeeperLock 分布式锁练习
  * @date 2017/9/13  10:09
  */
 public class ZookeeperLockTest {
